@@ -1,0 +1,13 @@
+ofxOsc
+ofxXmlSettings
+ofxMSATimer
+ofxTextInputField
+ofxTimeline
+ofxRange
+ofxFTGL
+ofxUI
+ofxTimecode
+ofxTween
+ofxLocalization
+ofxMidi
+ofxUIMidiMapper
