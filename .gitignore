@@ -74,7 +74,7 @@ releases/*
 *.ipch
 
 bin/Duration-RemoteX
-bin/Duration-RemoteX*
+bin/Duration-RemoteX_debug
 bin/libs/*
 
 
