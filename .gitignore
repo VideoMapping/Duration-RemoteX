@@ -73,11 +73,8 @@ releases/*
 *.exp
 *.ipch
 
-Duration/bin/Duration
-Duration/bin/libs/*
-DurationRemote/bin/libs/*
-RecordingDataGenerator/bin/RecordingDataGenerator
-RecordingDataGenerator/bin/libs/*
+bin/Duration-RemoteX
+bin/Duration-RemoteX*
+bin/libs/*
 
 
-DurationRemote/bin/DurationRemote
